@@ -12,7 +12,7 @@ The goal of this project is to clean and analyze a global layoffs dataset using 
 3. Removing null values or blank values 
 4. Remove any columns or rows
 
-Data Exploratory 
+## Data Exploratory 
 
 ## Overall Layoff Scale
 **1. What are the maximum numbers and percentages of employees laid off in the dataset?**
