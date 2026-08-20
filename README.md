@@ -15,16 +15,16 @@ The goal of this project is to clean and analyze a global layoffs dataset using 
 ## Data Exploratory 
 
 1. **Overall Layoff Scale**
-What are the maximum numbers and percentages of employees laid off in the dataset?**
+What are the maximum numbers and percentages of employees laid off in the dataset?
 
-**Companies with 100% Layoffs
-1. Which companies laid off 100% of their employees?**
+**Companies with 100% Layoffs**
+2. Which companies laid off 100% of their employees?
 
-**Companies with the Most Layoffs
-2. Which companies recorded the highest total number of employees laid off?**
+**Companies with the Most Layoffs**
+2. Which companies recorded the highest total number of employees laid off?
 
-**Layoff Date Range
-3. What is the earliest and latest layoff date recorded in the dataset?**
+**Layoff Date Range**
+3. What is the earliest and latest layoff date recorded in the dataset?
 
 **Layoffs by Industry**
 4. Which industries experienced the highest number of layoffs?
