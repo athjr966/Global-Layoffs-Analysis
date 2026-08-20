@@ -15,7 +15,7 @@ The goal of this project is to clean and analyze a global layoffs dataset using 
 ## Data Exploratory 
 
 1. **Overall Layoff Scale**
-What are the maximum numbers and percentages of employees laid off in the dataset?
+   What are the maximum numbers and percentages of employees laid off in the dataset?
 
 **Companies with 100% Layoffs**
 2. Which companies laid off 100% of their employees?
